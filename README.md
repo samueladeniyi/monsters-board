@@ -1,2 +1,2 @@
 
-a web app created with react
+a web app made with Create-React-App
